@@ -18,7 +18,7 @@ namespace FrameworkTSCI.Util
 
         private string CadenaConexion()
         {        
-            string str = @"Data Source=MATRIX-XPS\SQLEXPRESS;Initial Catalog=Discos;Integrated Security=True";           
+            string str = @"Data Source=SERVKEY-XPS\SQLSERVER;Initial Catalog=Discos;User ID=tsci;Password=tsci@@~~";           
             try
             {
                 str = System.Configuration.ConfigurationManager.ConnectionStrings["ProoOfConceptWF1.Properties.Settings.DiscosSS"].ConnectionString;
