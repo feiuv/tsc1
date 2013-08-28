@@ -18,7 +18,7 @@ namespace FrameworkTSCI.Util
 
         private string CadenaConexion()
         {        
-            string str = "server=localhost;User Id=root;password=vgfm169;Persist Security Info=True;database=discos";           
+            string str = "server=localhost;User Id=root;password=123456;Persist Security Info=True;database=discos";           
             try
             {
                 str = System.Configuration.ConfigurationManager.ConnectionStrings["DBEstudiantesConexion"].ConnectionString;
