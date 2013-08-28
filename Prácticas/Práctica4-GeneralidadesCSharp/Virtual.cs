@@ -24,7 +24,7 @@ using System;
       Nombre = nombre;
       Edad = edad;
       NIF = nif;
-     }
+     } 
   }
   
   class Trabajador: Persona
