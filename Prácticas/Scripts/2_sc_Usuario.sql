@@ -13,7 +13,7 @@ GO
 
 CREATE TABLE [dbo].[Usuarios](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
-	[Usuario] [char](50) NOT NULL,
+	[NombreUsuario] [char](50) NOT NULL,
 	[Password] [varchar](100) NOT NULL,
  CONSTRAINT [PK_Usuarios] PRIMARY KEY CLUSTERED 
 (
