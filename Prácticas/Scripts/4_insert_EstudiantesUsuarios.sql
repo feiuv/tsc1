@@ -4,8 +4,8 @@ DELETE FROM [dbo].[Estudiantes];
 DELETE FROM [dbo].[Usuarios];
 
 SET IDENTITY_INSERT [dbo].[Usuarios] ON 
-INSERT INTO [dbo].[Usuarios]  ([Id], [Usuario], [Password]) VALUES (1, 'admin' ,'123456');
-INSERT INTO [dbo].[Usuarios]  ([Id], [Usuario], [Password]) VALUES (2, 'hugo' ,'123456');
+INSERT INTO [dbo].[Usuarios]  ([Id], [NombreUsuario], [Password]) VALUES (1, 'admin' ,'123456');
+INSERT INTO [dbo].[Usuarios]  ([Id], [NombreUsuario], [Password]) VALUES (2, 'hugo' ,'123456');
 SET IDENTITY_INSERT [dbo].[Usuarios] OFF
 
 SET IDENTITY_INSERT [dbo].[Estudiantes] ON 
