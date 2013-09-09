@@ -1,0 +1,5 @@
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\FrameworkTSCI\bin\Debug\FrameworkTSCI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\FrameworkTSCI\bin\Debug\FrameworkTSCI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\FrameworkTSCI\obj\Debug\FrameworkTSCI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\FrameworkTSCI\obj\Debug\FrameworkTSCI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\FrameworkTSCI\bin\Debug\mysql.data.dll
