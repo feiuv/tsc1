@@ -11,18 +11,27 @@ namespace FrameworkTSCI.Domain
         public String ApP { get; set; }
         public String ApM { get; set; }
         public String Matricula { get; set; }
-        private int edad;
-        public int Edad
+        public int Edad { get; set;}
+
+        public Estudiante()
         {
-            get
-            {
-                return edad;
-            }
-            set
-            {
-                //TODO: Validación
-                edad = value;
-            }
+            
         }
+
+        public Estudiante(string nombre, string app, string apm, string matricula, int edad, int id)
+        {
+            this.Id = id;
+            this.Nombre = nombre;
+            this.ApM = apm;
+            this.ApP = app;
+            this.Matricula = matricula;
+            this.Edad = edad;
+        }
+
+        public Estudiante(string nombre, string app, string apm, string matricula, int edad): this(nombre, app, apm, matricula, 0, edad)
+        {
+           
+        }
+    
     }
 }

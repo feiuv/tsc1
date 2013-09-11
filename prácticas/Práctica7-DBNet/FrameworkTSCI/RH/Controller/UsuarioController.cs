@@ -9,7 +9,7 @@ using FrameworkTSCI.Conexion;
 
 namespace RH.Controller
 {
-    class UsuarioController:Entity, Controller<Usuario>
+    public class UsuarioController:Entity, Controller<Usuario>
     {
         MSSQLConexion conexion = new MSSQLConexion();
         MySQLConexion conexionMysql = new MySQLConexion();
@@ -71,20 +71,23 @@ namespace RH.Controller
         public Usuario ValidarUsuario(String usuario, String password)
         {
             Usuario usr = null;
-            string query = "select * from Usuarios where Usuario = '" + usuario + "' and password = '" + password + "'";
+            string query = "select * from Usuarios where NombreUsuario = '" + usuario + "' and Password = '" + password + "'";
             DataSet dr = conexion.Query(query, "Usuarios");
+            if (dr != null && dr.Tables[0].Rows.Count > 0)
+            {
+                usr = dr.Tables[0].Rows.Cast<DataRow>().
+                            Select(
+                                 x =>
 
-            usr = dr.Tables[0].Rows.Cast<DataRow>().
-                        Select(
-                             x =>
-
-                        new Usuario
-                        {
-                            Id = Int32.Parse(x[0].ToString()),
-                            NombreUsuario = x[1].ToString(),
-                            Password = x[2].ToString()
-                        }
-            ).ToList<Usuario>()[0];
+                            new Usuario
+                            {
+                                Id = Int32.Parse(x[0].ToString()),
+                                NombreUsuario = x[1].ToString(),
+                                Password = x[2].ToString()
+                            }
+                ).ToList<Usuario>()[0];
+            }else
+                throw new FrameworkTSCI.ExceptionTSCI.InvalidatedUserException();
             return usr;
         }
     }

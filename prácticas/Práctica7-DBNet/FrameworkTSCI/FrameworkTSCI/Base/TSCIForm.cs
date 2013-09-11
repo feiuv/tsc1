@@ -43,5 +43,23 @@ namespace FrameworkTSCI.Base
             return result;
         }
 
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // TSCIForm
+            // 
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Name = "TSCIForm";
+            this.Load += new System.EventHandler(this.TSCIForm_Load);
+            this.ResumeLayout(false);
+
+        }
+
+        private void TSCIForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
     }
 }

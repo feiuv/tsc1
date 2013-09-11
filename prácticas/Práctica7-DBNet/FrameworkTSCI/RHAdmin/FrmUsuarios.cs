@@ -18,18 +18,21 @@ namespace RHAdmin
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-           // this.Hide(); 
-            try
+            // this.Hide(); 
+
+            if (ValidarTxt())
             {
-                if (ValidarTxt())
+                RH.Controller.UsuarioController u = new RH.Controller.UsuarioController();
+                try
                 {
+                    FrameworkTSCI.Domain.Usuario user = u.ValidarUsuario(txtUser.Text, txtPassword.Text);
                     new frmEstudiantes().Show();
                 }
+                catch (FrameworkTSCI.ExceptionTSCI.InvalidatedUserException e1)
+                {
+                    MessageBox.Show("Datos incorrectos.");
+                }
             }
-            catch
-            {
-            }
-
         }
 
         private void FrmLogin_Load(object sender, EventArgs e)
