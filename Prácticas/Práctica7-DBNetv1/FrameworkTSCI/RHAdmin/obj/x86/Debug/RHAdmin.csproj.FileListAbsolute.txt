@@ -12,3 +12,17 @@ C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\RHAdmin\bin\Debug\FrameworkTSCI.pdb
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\RHAdmin\bin\Debug\RH.pdb
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.FrmUsuarios.resources
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.exe
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\RHAdmin.exe
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\RHAdmin.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\FrameworkTSCI.dll
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\RH.dll
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\MySql.Data.dll
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\FrameworkTSCI.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\bin\Debug\RH.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.frmEstudiantes.resources
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.FrmUsuarios.resources
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.Properties.Resources.resources
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\RHAdmin\obj\x86\Debug\RHAdmin.csproj.GenerateResource.Cache

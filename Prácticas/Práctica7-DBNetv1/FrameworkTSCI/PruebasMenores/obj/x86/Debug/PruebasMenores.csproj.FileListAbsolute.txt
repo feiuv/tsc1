@@ -8,3 +8,13 @@ C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\PruebasMenores\obj\x86\Debug\PruebasMenores.csprojResolveAssemblyReference.cache
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\PruebasMenores\obj\x86\Debug\PruebasMenores.exe
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica7-DBNet\FrameworkTSCI\PruebasMenores\obj\x86\Debug\PruebasMenores.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\PruebasMenores.exe
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\PruebasMenores.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\FrameworkTSCI.dll
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\RH.dll
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\MySql.Data.dll
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\FrameworkTSCI.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\bin\Debug\RH.pdb
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\obj\x86\Debug\PruebasMenores.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\obj\x86\Debug\PruebasMenores.exe
+C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica7-DBNetv1\FrameworkTSCI\PruebasMenores\obj\x86\Debug\PruebasMenores.pdb

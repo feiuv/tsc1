@@ -30,7 +30,7 @@ namespace RH.Controller
         public List<Usuario> GetAll()
         {
             string query = "select * from Usuarios;";
-            DataSet dr = conexion.Query(query, "cds");
+            DataSet dr = conexion.Query(query, "Usuarios");
 
             List<Usuario> usuarios = dr.Tables[0].Rows.Cast<DataRow>().
                         Select(
