@@ -70,6 +70,7 @@ namespace RH.Controller
 
         public Usuario ValidarUsuario(String usuario, String password)
         {
+
             Usuario usr = null;
             string query = "select * from Usuarios where NombreUsuario = '" + usuario + "' and Password = '" + password + "'";
             DataSet dr = conexion.Query(query, "Usuarios");
@@ -77,8 +78,7 @@ namespace RH.Controller
             {
                 usr = dr.Tables[0].Rows.Cast<DataRow>().
                             Select(
-                                 x =>
-
+                            x =>
                             new Usuario
                             {
                                 Id = Int32.Parse(x[0].ToString()),
