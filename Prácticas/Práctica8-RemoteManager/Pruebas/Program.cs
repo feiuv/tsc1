@@ -13,7 +13,7 @@ namespace Pruebas
         static void Main(string[] args)
         {
            
-            
+            /*
             List<Process> process = ProcessManager.GetAllProcess();
             //List<Process> process = ProcessManager.GetAllProcessByHost("SERVKEY-XPS","servkey","****");
             
@@ -31,12 +31,13 @@ namespace Pruebas
             {
                 
                 //WQLUtil.Util.ProcessEx.ProcessManager.KillByName(process, "notepad.exe");
-                //WQLUtil.Util.ProcessEx.ProcessManager.KillByProcessId(process, 6416);
+                //WQLUtil.Util.ProcessEx.ProcessManager.KillByProcessId(process, 11468);
                
             }
             catch { }
              
-            return;
+            return;*/
+
             Test t = new Test();
             System.Windows.Forms.Application.Run();
          }      

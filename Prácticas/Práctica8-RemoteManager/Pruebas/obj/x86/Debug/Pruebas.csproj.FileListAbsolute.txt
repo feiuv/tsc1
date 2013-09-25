@@ -37,3 +37,4 @@ C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\
 C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica8-RemoteManager\Pruebas\obj\x86\Debug\Pruebas.csproj.GenerateResource.Cache
 C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica8-RemoteManager\Pruebas\obj\x86\Debug\Pruebas.exe
 C:\Users\servkey\Google Drive\documentos\fei\cursos\5_agosto13_diciembre13\tsci\repository\tsc1\Prácticas\Práctica8-RemoteManager\Pruebas\obj\x86\Debug\Pruebas.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica8-RemoteManager\Pruebas\bin\Debug\WQLUtil.dll

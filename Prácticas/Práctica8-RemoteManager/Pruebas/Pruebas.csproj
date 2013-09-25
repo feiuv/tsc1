@@ -47,7 +47,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="WQLUtil, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Práctica8-WQLUtil\WQLUtil\bin\Release\WQLUtil.dll</HintPath>
+      <HintPath>..\..\..\..\..\tmp\Práctica8-WQLUtil\WQLUtil\bin\Release\WQLUtil.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

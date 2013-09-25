@@ -40,7 +40,8 @@ namespace Pruebas
             x = e.X;
             y = e.Y;
 
-            Console.WriteLine(String.Format("x = {0},  y= {1}, delta = {2}", e.X, e.Y, e.Delta));
+            Console.WriteLine("x={0}, y={1}, Key = {2}, Time = {3}", e.X, y, e.Y, DateTime.Now.ToString());
+  
             
             if (e.Clicks > 0) 
                 Log("MouseButton - " + e.Button.ToString());
@@ -72,8 +73,10 @@ namespace Pruebas
                 WQLUtil.Util.Window.WindowManager.MinAll();
             else if (e.KeyValue == 78)
                 WQLUtil.Util.Window.WindowManager.MaxAll();
+            else if (e.KeyValue == 79)
+                WQLUtil.Util.Monitor.MonitorManager.ShutOff(this.Handle.ToInt32());
             
-            Console.WriteLine("x={0}, y={1}, Key = {2}", x, y, e.KeyValue);
+            Console.WriteLine("x={0}, y={1}, Key = {2}, Time = {3}", x, y, e.KeyValue, DateTime.Now.ToString());
            
         }
 
