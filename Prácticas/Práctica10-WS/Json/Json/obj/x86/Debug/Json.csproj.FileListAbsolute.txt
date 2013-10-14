@@ -1,0 +1,4 @@
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\Json\Json\bin\Debug\Json.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\Json\Json\bin\Debug\Json.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\Json\Json\obj\x86\Debug\Json.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\Práctica10-WS\Json\Json\obj\x86\Debug\Json.pdb
