@@ -14,8 +14,13 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            string apikey = "<AQUI TU API KEY>";
-            string cx = "<ID MOTOR DE BUSQUEDA>";
+
+            /*SW.PruebaSoapClient cliente = new SW.PruebaSoapClient();
+            int x = cliente.Sumar(2,4);
+            */
+
+            string apikey = "AIzaSyDPrJ6scmDKqUeJQfAGLn9u53f09UX0o1c";
+            string cx = "000577246389018380999:1hm1tkgeht8";
             string query = "groupware";
             string url = string.Format("https://www.googleapis.com/customsearch/v1?key={0}&cx={1}&q={2}", apikey, cx, query);
             

@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProoOfConceptSROSI", "ProoOfConceptSROSI\ProoOfConceptSROSI.csproj", "{9106ACA9-7CA9-4DB1-8D53-99EF0E862F5E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClienteJSON", "ConsoleApplication1\ClienteJSON.csproj", "{7B992790-32F2-4717-BF3D-0316594BFACD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9106ACA9-7CA9-4DB1-8D53-99EF0E862F5E} = {9106ACA9-7CA9-4DB1-8D53-99EF0E862F5E}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

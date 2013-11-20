@@ -25,7 +25,7 @@ namespace ProoOfConceptSROSI
 
 
             Estudiante e1 = new Estudiante();
-            e1.Id = "S10390";
+            e1.Id = "S10391";
             e1.Nombre = "Hugo";
             e1.ApellidoPaterno = "Montané";
             e1.ApellidoMaterno = "Jiménez";
