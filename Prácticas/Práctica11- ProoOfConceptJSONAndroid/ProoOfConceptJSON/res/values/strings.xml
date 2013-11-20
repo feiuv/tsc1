@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Probando servicio JSON</string>
+    <string name="app_name">ProoOfConceptJSON</string>
+    <string name="lbl_lst_estudiantes">Estudiantes</string>
+
+</resources>

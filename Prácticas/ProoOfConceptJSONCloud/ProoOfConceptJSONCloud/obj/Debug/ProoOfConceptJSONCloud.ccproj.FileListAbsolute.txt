@@ -1,0 +1,2 @@
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\ProoOfConceptJSONCloud\bin\Debug\ServiceConfiguration.cscfg
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\ProoOfConceptJSONCloud\bin\Debug\ServiceDefinition.csdef
