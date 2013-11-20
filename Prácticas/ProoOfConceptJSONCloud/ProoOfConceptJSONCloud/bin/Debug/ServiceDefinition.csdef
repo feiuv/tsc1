@@ -26,5 +26,10 @@
     <LocalResources>
       <LocalStorage name="JSONService.svclog" sizeInMB="1000" cleanOnRoleRecycle="false" />
     </LocalResources>
+    <Contents>
+      <Content destination=".\">
+        <SourceDirectory path="C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\ProoOfConceptJSONCloud\rcf\Debug\JSONServiceContent\" />
+      </Content>
+    </Contents>
   </WebRole>
 </ServiceDefinition>

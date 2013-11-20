@@ -42,3 +42,4 @@ C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\JSONService\obj\Release\JSONService.csprojResolveAssemblyReference.cache
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\JSONService\obj\Release\JSONService.dll
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\JSONService\obj\Release\JSONService.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\5_Agosto13_Diciembre13\TSCI\repository\tsc1\Prácticas\ProoOfConceptJSONCloud\JSONService\bin\HtmlAgilityPack.dll

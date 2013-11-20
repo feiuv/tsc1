@@ -11,7 +11,7 @@ public class Estudiante
    public String apellidopaterno;
    public String apellidomaterno;
    public String matricula;
-   public String direccion;
+   public int edad;
    
    public String getIdEstudinte(){
 	   return id;

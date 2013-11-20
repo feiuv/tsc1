@@ -21,7 +21,7 @@ import org.apache.http.HttpResponse;
 
 public class ProoOfConceptJSONActivity extends Activity {
     /** Called when the activity is first created. */
-	static String srv = "http://10.116.92.84/wcfTest/SrvSROSI.svc";
+	static String srv = "http://demotsci.azurewebsites.net/ServiceJSON.svc";
 	
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -79,7 +79,7 @@ public class ProoOfConceptJSONActivity extends Activity {
         Estudiante estudiante = null;
         try {
             
-            HttpEntity entity = getEntity(srv + "/GetEstudiante/1");
+            HttpEntity entity = getEntity(srv + "/GetEstudiante?id=1");
 
             if (entity != null) {
                 InputStream instream = entity.getContent();
