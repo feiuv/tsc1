@@ -13,6 +13,7 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import org.apache.http.HttpEntity;
+import org.apache.http.HttpStatus;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
@@ -21,6 +22,7 @@ import org.apache.http.HttpResponse;
 
 public class ProoOfConceptJSONActivity extends Activity {
     /** Called when the activity is first created. */
+	
 	static String srv = "http://demotsci.azurewebsites.net/ServiceJSON.svc";
 	
     @Override
@@ -62,67 +64,62 @@ public class ProoOfConceptJSONActivity extends Activity {
     	  Toast.makeText(this, "Seleccionó a " + valor, Toast.LENGTH_LONG).show();
     }
     
+
     private static HttpEntity getEntity(String uri){
-        HttpClient httpClient = new DefaultHttpClient();
-        HttpEntity entity = null;
-        try {
-            HttpGet httpget = new HttpGet(uri);
-            HttpResponse response = httpClient.execute(httpget);
-            entity = response.getEntity();
+    	DefaultHttpClient client = new DefaultHttpClient();
+    	HttpGet request = new HttpGet(uri);
+    	HttpEntity entity = null;
+    	try {
+    		HttpResponse response = client.execute(request);
+    		if (response.getStatusLine().getStatusCode() != HttpStatus.SC_OK) {
+    			entity = null;
+    		}else
+    			entity = response.getEntity();
+               
         } catch (IOException ex) {
-            //Hacer algo
+            ex.printStackTrace();
+            request.abort();
         } 
         return entity;
     }
-    
-    public static Estudiante getEstudiante(String idEstudiante){
-        Estudiante estudiante = null;
-        try {
-            
-            HttpEntity entity = getEntity(srv + "/GetEstudiante?id=1");
+      
 
-            if (entity != null) {
-                InputStream instream = entity.getContent();
-                try {
-                    BufferedReader reader = new BufferedReader(new InputStreamReader(instream));
-                    String str = reader.readLine();
-                    
-                    Gson gson = new Gson();
-                    
-                    estudiante = gson.fromJson(str, Estudiante.class);
-                } catch (IOException ex) {
-                    throw ex;
-                 }finally {
-                    instream.close();
-                }
-            }
-        }catch(Exception e1){}
+    //Prueba estudiantes
+    public static Estudiante getEstudiante(String id){
+        //List<Estudiante> estudiantes = new LinkedList<Estudiante>();
+    	Estudiante estudiante = null;
+    	try {
+        	//System.out.println("Obtener estudiantes...");
+    			HttpEntity entity = getEntity(srv + "/GetEstudiante?id=" + id);
+        		Reader reader = new InputStreamReader(entity.getContent());
+        	    Gson gson = new Gson();
+                //Convertir el arreglo JSON a un arreglo en Java        	   
+        	    estudiante = gson.fromJson(reader, Estudiante.class);
+         
+    	}catch(Exception e)
+       {
+    	   e.printStackTrace();
+       }
         return estudiante;
     }
     
     
+    //Prueba estudiantes
     public static Estudiante[] getEstudiantes(){
-        Estudiante estudiantes[] = null;
-        try {
-            
-            HttpEntity entity = getEntity(srv + "/GetEstudiantes");
-
-            if (entity != null) {
-                InputStream instream = entity.getContent();
-                try {
-                    BufferedReader reader = new BufferedReader(new InputStreamReader(instream));
-                    String str = reader.readLine();
-                    //Crear una instancia de Gson
-                    Gson gson = new Gson();
-                    //Convertir el arreglo JSON a un arreglo en Java
-                    estudiantes = (Estudiante[]) gson.fromJson(str, Estudiante[].class);
-                } catch (IOException ex) {
-                    throw ex;
-                 }finally {
-                    instream.close();
-                }
-            }
-        }catch(Exception e1){}
+        //List<Estudiante> estudiantes = new LinkedList<Estudiante>();
+    	Estudiante[] estudiantes = null;
+    	try {
+        	//System.out.println("Obtener estudiantes...");
+    			HttpEntity entity = getEntity(srv + "/GetEstudiantes");
+        		Reader reader = new InputStreamReader(entity.getContent());
+        	    Gson gson = new Gson();
+                //Convertir el arreglo JSON a un arreglo en Java        	   
+        	    estudiantes = gson.fromJson(reader, Estudiante[].class);
+         
+    	}catch(Exception e)
+       {
+    	   e.printStackTrace();
+       }
         return estudiantes;
     }
     
