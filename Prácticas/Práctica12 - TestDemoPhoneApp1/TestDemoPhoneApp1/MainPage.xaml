@@ -47,8 +47,8 @@
 
         <!--ContentPanel. Colocar aquí el contenido adicional-->
         <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
-            <TextBlock x:Name="lblName" HorizontalAlignment="Left" Margin="26,42,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
-            <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="72" Margin="149,17,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="284"/>
+            <TextBlock x:Name="lblName" HorizontalAlignment="Left" Margin="26,42,0,0" TextWrapping="Wrap" Text="Nombre" VerticalAlignment="Top"/>
+            <TextBox x:Name="txtNombre" HorizontalAlignment="Left" Height="72" Margin="149,17,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="284"/>
         </Grid>
 
         <!--Quitar la marca de comentarios para ver una cuadrícula de alineación que

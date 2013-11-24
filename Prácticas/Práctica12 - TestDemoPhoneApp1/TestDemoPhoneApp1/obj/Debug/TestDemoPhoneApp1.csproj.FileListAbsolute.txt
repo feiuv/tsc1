@@ -16,3 +16,6 @@ c:\users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDem
 c:\users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDemoPhoneApp1\obj\Debug\TestDemoPhoneApp1.dll
 c:\users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDemoPhoneApp1\obj\Debug\TestDemoPhoneApp1.pdb
 c:\users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDemoPhoneApp1\obj\Debug\XapCacheFile.xml
+C:\Users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDemoPhoneApp1\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDemoPhoneApp1\Bin\Debug\Newtonsoft.Json.pdb
+C:\Users\servkey\documents\visual studio 2012\Projects\TestDemoPhoneApp1\TestDemoPhoneApp1\Bin\Debug\Newtonsoft.Json.xml

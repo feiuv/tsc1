@@ -17,19 +17,27 @@ namespace TestDemoPhoneApp1
         public MainPage()
         {
             InitializeComponent();
-            ServiceJson.ServiceJSONClient client = new ServiceJson.ServiceJSONClient();
-            client.GetEstudianteAsync("1", 2);
-            client.GetEstudianteCompleted += new EventHandler<ServiceJson.GetEstudianteCompletedEventArgs>(GetEstudianteCompletedDownload);
-            
+            try
+            {
+                 WebClient wc = new WebClient();
+                 wc.DownloadStringCompleted += new DownloadStringCompletedEventHandler(wcGetEstudianteCompletedDownload);
+                 wc.DownloadStringAsync(new Uri("http://demotsci.azurewebsites.net/ServiceJSON.svc/GetEstudiantes"));
+
+            }
+            catch (Exception e){
+                
+            }
             // Código de ejemplo para traducir ApplicationBar
             //BuildLocalizedApplicationBar();
         }
-        void GetEstudianteCompletedDownload(object sender, ServiceJson.GetEstudianteCompletedEventArgs e)
+        void wcGetEstudianteCompletedDownload(object server, DownloadStringCompletedEventArgs e)
         {
-            var est = e.Result;
+            var root = Newtonsoft.Json.JsonConvert.DeserializeObject<Model.Estudiante[]>(e.Result);
+            var est = root[0];
             txtNombre.Text = est.nombre;
         }
 
+      
         // Código de ejemplo para compilar una ApplicationBar traducida
         //private void BuildLocalizedApplicationBar()
         //{
