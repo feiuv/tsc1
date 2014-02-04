@@ -1,8 +1,0 @@
-module CasaApp
-{
-  interface Casa
-  {
-  	boolean encender(in string led);
-
-  };
-};
