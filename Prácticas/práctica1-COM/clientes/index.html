@@ -1,0 +1,17 @@
+<html>
+<head>
+<script type="text/javascript">
+	function onload(){
+		<!--cargar objeto activex-->
+		var component = new ActiveXObject("ServiceInfo.InfoCOM");
+		//alert(x.suma(3,2));
+		var x=document.getElementById("myHeader");		
+		x.innerHTML = "serial: " + component.serialBaseBoard()  + ", descripción: " + component.descripcionBaseBoard()
+		
+	}
+</script>
+</head>
+<body onload="onload()">
+	<h1 id="myHeader"></h1>
+</body>
+</html>
