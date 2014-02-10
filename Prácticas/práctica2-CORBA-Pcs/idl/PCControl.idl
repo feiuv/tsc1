@@ -1,0 +1,19 @@
+module PCControlApp
+{
+  interface PCControl
+  {
+	struct Pc{
+		string hostname;
+		string sonombre;
+		string ip;
+		string ram;
+		string disco;
+		string dirmac;
+	};
+  	typedef sequence<Pc> Pcs;
+
+	Pcs getPcs();
+  	boolean registrar(in Pc pc);
+
+  };
+};
