@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+xmlns:android="http://schemas.android.com/apk/res/android" 
+android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+<LinearLayout 
+	android:id="@+id/layout_login" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:gravity="center_vertical">
+	
+	
+
+
+
+<ImageView android:layout_height="wrap_content" android:id="@+id/ImageView01" android:layout_width="wrap_content" android:src="@drawable/location" android:layout_gravity="right"></ImageView>
+
+<TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView01" android:text="Lugar"></TextView>
+<EditText android:id="@+id/txtLugar"  android:inputType="textCapSentences" android:hint="Escriba aquí título del lugar" android:layout_height="wrap_content" android:layout_width="fill_parent"  android:singleLine="true"></EditText>
+<TextView android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Descripción"></TextView>
+<EditText android:id="@+id/txtDescripcion" 
+	android:hint="Escriba aquí descripción del lugar"
+ 	android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:inputType="textCapSentences|textMultiLine">
+</EditText>
+<TextView android:id="@+id/TextView03" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Enlace"></TextView>
+<EditText android:id="@+id/txtEnlace" android:layout_height="wrap_content"  android:layout_width="fill_parent" android:text="http://www.google.com"  android:singleLine="true" ></EditText>
+<TextView android:id="@+id/TextView04" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Latitud"></TextView>
+<EditText android:id="@+id/txtLatitude" android:numeric="decimal" android:layout_height="wrap_content"  android:layout_width="fill_parent"  android:singleLine="true"></EditText>
+<TextView android:id="@+id/TextView05" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Longitud"></TextView>
+<EditText android:id="@+id/txtLongitude" android:numeric="decimal|signed" android:layout_height="wrap_content"  android:layout_width="fill_parent" android:singleLine="true"></EditText>
+<TextView android:id="@+id/TextView06" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Altitud"></TextView>
+<EditText android:id="@+id/txtAltitude" android:numeric="decimal" android:layout_height="wrap_content"  android:layout_width="fill_parent" android:singleLine="true"></EditText>
+<TextView android:id="@+id/TextView07" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Tipo"></TextView>
+<EditText android:id="@+id/txtSource" android:numeric="integer" android:layout_height="wrap_content"  android:layout_width="fill_parent" android:singleLine="true"></EditText>
+
+<Button android:id="@+id/btnGuardar" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Guardar"></Button>
+
+</LinearLayout>
+</ScrollView>

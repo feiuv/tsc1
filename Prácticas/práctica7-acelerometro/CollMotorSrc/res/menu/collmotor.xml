@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/start_ar"
+          android:title="Iniciar realidad aumentada"/>
+   	<item android:id="@+id/del_sites"
+          android:title="Eliminar sitios"/>
+	<item android:id="@+id/ub_info"
+          android:title="Limpiar datos de ubicación"/>
+    <item android:id="@+id/wn_info"
+          android:title="Limpiar datos de conexión"/>
+    <item android:id="@+id/poi_info"
+          android:title="Limpiar datos de realidad"/>
+    <item android:id="@+id/ac_info"
+          android:title="Limpiar datos del acelerómetro"/>
+    <item android:id="@+id/add_poi"
+         android:title="Agregar ubicación"/>    
+    <item android:id="@+id/preferences"
+          android:title="Preferencias"/>
+    <item android:id="@+id/quit"
+          android:title="Salir" android:icon="@drawable/exit_36"/>
+</menu>

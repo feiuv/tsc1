@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+xmlns:android="http://schemas.android.com/apk/res/android" 
+android:layout_width="fill_parent" android:layout_height="fill_parent">
+
+<LinearLayout 
+	android:id="@+id/layout_login" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent" android:gravity="center_vertical">
+	
+	
+<ImageView  android:layout_height="90px" android:layout_width="90px" android:id="@+id/ImageView01" android:src="@drawable/activity_monitor" android:layout_gravity="right"></ImageView>
+
+<TextView android:textSize="10pt"  android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Actividad"></TextView>
+<TextView 
+	android:id="@+id/txtActividad" android:layout_height="wrap_content" android:singleLine="false" android:layout_width="fill_parent" android:text="Reconociendo..."
+	android:textColor="#00FF00"
+ 	android:background="#000000"
+ 	android:textSize="8pt" >	 
+</TextView>
+
+<TextView android:textSize="10pt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/TextView01" android:text="Dirección"></TextView>
+<TextView android:id="@+id/txtUbicacion" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Funcionalidad desactivada"     
+ 	
+ 	android:textColor="#00FF00"
+ 	android:background="#000000"
+ 	
+ 	android:textSize="8pt" 
+ 	
+    android:typeface="normal"  
+></TextView>
+
+
+<TextView android:textSize="10pt"  android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Telefonía"></TextView>
+<TextView 
+	 android:id="@+id/txtTelefonia" android:layout_height="wrap_content" android:singleLine="false" android:layout_width="fill_parent" android:text="Funcionalidad desactivada"
+	 android:textColor="#00FF00"
+ 	
+ 	android:background="#000000"
+ 	android:textSize="8pt" 
+ 	
+    
+	 >	 
+</TextView>
+<TextView android:textSize="10pt"  android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Estado de llamadas"></TextView>
+<TextView 
+	 android:id="@+id/txtEstadoLlamada" android:layout_height="wrap_content" android:singleLine="false" android:layout_width="fill_parent" android:text="Funcionalidad desactivada"
+	 android:textColor="#00FF00" 	
+ 	android:background="#000000"
+ 	android:textSize="8pt" 
+ 	   
+	 >
+</TextView>
+<TextView android:textSize="10pt"  android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Bateria"></TextView>
+<TextView 
+	 android:id="@+id/txtEstadoBateria" android:layout_height="wrap_content" android:singleLine="false" android:layout_width="fill_parent" android:text="Funcionalidad desactivada"
+	 android:textColor="#00FF00" 	
+ 	android:background="#000000"
+ 	android:textSize="8pt" 
+ 	   
+	 >
+</TextView>
+
+<TextView android:textSize="10pt"  android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Latitud"></TextView>
+<TextView 
+	 android:id="@+id/txtLatitude" android:layout_height="wrap_content" android:singleLine="false" android:layout_width="fill_parent" android:text="Funcionalidad desactivada"
+	 android:textColor="#00FF00" 	
+ 	android:background="#000000"
+ 	android:textSize="8pt" 
+ 	   
+	 >
+</TextView>
+
+<TextView android:textSize="10pt"  android:id="@+id/TextView02" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Longitud"></TextView>
+<TextView 
+	 android:id="@+id/txtLongitude" android:layout_height="wrap_content" android:singleLine="false" android:layout_width="fill_parent" android:text="Funcionalidad desactivada"
+	 android:textColor="#00FF00" 	
+ 	android:background="#000000"
+ 	android:textSize="8pt" 
+ 	   
+	 >
+</TextView>
+
+
+<CheckBox android:id="@+id/CheckBox01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Iniciar al encender el dispositivo" android:visibility="invisible"></CheckBox>
+
+<Button android:id="@+id/Button01" android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="Aceptar" android:visibility="invisible"></Button>
+
+</LinearLayout>
+</ScrollView>
+<!--android:textColor="#FFFFFF" android:background="#00008B"  -->

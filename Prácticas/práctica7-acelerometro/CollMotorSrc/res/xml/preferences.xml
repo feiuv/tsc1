@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+			xmlns:android="http://schemas.android.com/apk/res/android" android:title="Preferencias">
+
+<PreferenceCategory android:title="Configuración general">
+	<EditTextPreference android:title="Usuario" android:summary="Escriba usuario" android:key="username" android:defaultValue="servkey"></EditTextPreference>
+	<EditTextPreference
+		  android:title="Contraseña" android:summary="Escriba su contraseña" android:key="password" android:defaultValue="123456"></EditTextPreference>
+	<EditTextPreference
+		  android:title="Dispositivo" android:defaultValue="P500h" android:key="device" android:summary="Escriba el dispositivo"></EditTextPreference>
+	<CheckBoxPreference android:key="boot_on_start" android:summary="Iniciar servicio" android:defaultValue="true" android:title="Iniciar servicio"></CheckBoxPreference>
+
+
+<CheckBoxPreference android:key="sync_ap_server" android:enabled="true" android:title="Sincronizar actividad física con el servidor" android:summary="Sincronizar actividad física con el servidor" android:defaultValue="true"></CheckBoxPreference>
+<EditTextPreference android:defaultValue="4.5" android:key="time_call" android:title="Tiempo en llamadas (min)"></EditTextPreference>
+<CheckBoxPreference android:key="active_sound" android:defaultValue="true" android:title="Activar sonido para límite de llamadas"></CheckBoxPreference>
+<CheckBoxPreference android:key="active_vibrate" android:defaultValue="true" android:title="Activar vibrador para límite de llamadas"></CheckBoxPreference>
+</PreferenceCategory>
+	
+	
+
+<PreferenceCategory android:title="Configuración de conexión"><EditTextPreference android:title="Servidor colaborativo" android:key="collaborativeserver" android:summary="Escriba dirección del servidor de aplicación colaborativa" android:defaultValue="192.168.1.79"></EditTextPreference>
+
+</PreferenceCategory>
+<PreferenceCategory android:title="Acelerómetro">
+<CheckBoxPreference android:title="Almacenar información localmente" android:summary="Almacenar información localmente" android:key="sync_ac_local"></CheckBoxPreference><CheckBoxPreference android:summary="Almacenar información en el servidor" android:title="Almacenar información en el servidor" android:key="sync_ac_server">
+</CheckBoxPreference>
+</PreferenceCategory>
+<PreferenceCategory android:title="Ubicación">
+<CheckBoxPreference android:summary="Almacenar información localmente" android:title="Almacenar información localmente" android:key="sync_gps_local"></CheckBoxPreference>
+<CheckBoxPreference android:key="sync_gps_server" android:summary="Almacenar información localmente" android:title="Almacenar información localmente"></CheckBoxPreference>
+</PreferenceCategory>
+<PreferenceCategory android:title="Conexión inalámbrica">
+<CheckBoxPreference android:key="sync_wn_local" android:summary="Almacenar información localmente" android:title="Almacenar información localmente"></CheckBoxPreference>
+<CheckBoxPreference android:key="sync_wn_server" android:summary="Almacenar información en el servidor" android:title="Almacenar información en el servidor"></CheckBoxPreference>
+</PreferenceCategory>
+</PreferenceScreen>

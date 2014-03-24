@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:id="@+id/layout_viewrequest" 
+   android:orientation="vertical"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   >
+   <TextView android:id="@+id/TextView01" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Eliminar sitios " android:textSize="17sp" android:layout_gravity="center_horizontal"></TextView>
+ 		
+   <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" android:layout_gravity="center_horizontal">
+  
+ 		<Button android:text="Todos" android:id="@+id/btnAll"
+		android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="75px" android:layout_gravity="center_horizontal"/>
+
+		<Button android:text="Ninguno" android:id="@+id/btnNone"
+		android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="75px" android:layout_gravity="center_horizontal"/>
+			
+		
+		<Button android:text="Elminar" android:id="@+id/btnDelete"
+		android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="75px"/>
+          
+         <Button android:text="Editar" android:id="@+id/btnEdit"
+		android:layout_height="wrap_content" android:layout_width="wrap_content" android:width="75px"/>
+   
+</LinearLayout>
+<ListView android:id="@+id/lstGroups" 
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent" />
+
+</LinearLayout>
+
