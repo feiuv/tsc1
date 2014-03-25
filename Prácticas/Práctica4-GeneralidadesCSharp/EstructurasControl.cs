@@ -30,9 +30,7 @@ class EstructurasControl{
 
 		}
 
-
-
-		Out.WriteLine("***************************");		 
+         Out.WriteLine("***************************");		 
 
 		int[] numeros = new int[]{4,51,1,3};
 //		numeros.Add(5);

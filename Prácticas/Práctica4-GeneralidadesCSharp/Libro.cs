@@ -2,15 +2,22 @@ using System;
 using sys = System; 
 using prt = System.Console;
 using System.Collections.Generic;
-public class Book
+
+public struct Book
 {
     public decimal price;
     public string title;
     public string author;
 
     public decimal Price{
-	set{price = value;}
-	get{return price;}
+        set
+        {
+            price = value;
+        }
+        get
+        {
+            return price;
+        }
     }
 }
 
