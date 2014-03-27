@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBCasaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="DBCasaModelStoreContainer">
+    <EntitySet Name="TblEstudiantes" EntityType="DBCasaModel.Store.TblEstudiantes" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TblTiposUsuarios" EntityType="DBCasaModel.Store.TblTiposUsuarios" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TblUsuarios" EntityType="DBCasaModel.Store.TblUsuarios" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_TblUsuarios_TblTiposUsuarios" Association="DBCasaModel.Store.FK_TblUsuarios_TblTiposUsuarios">
+      <End Role="TblTiposUsuarios" EntitySet="TblTiposUsuarios" />
+      <End Role="TblUsuarios" EntitySet="TblUsuarios" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TblEstudiantes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ApPaterno" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="ApMaterno" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Matricula" Type="varchar" Nullable="false" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="TblTiposUsuarios">
+    <Key>
+      <PropertyRef Name="IdTipoUsuario" />
+    </Key>
+    <Property Name="IdTipoUsuario" Type="int" Nullable="false" />
+    <Property Name="TipoUsuario" Type="varchar" Nullable="false" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TblUsuarios">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="Password" Type="varchar" Nullable="false" MaxLength="120" />
+    <Property Name="Nombre" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="ApellidoPaterno" Type="varchar" Nullable="false" MaxLength="30" />
+    <Property Name="ApellidoMaterno" Type="varchar" MaxLength="30" />
+    <Property Name="IdTipoUsuario" Type="int" />
+  </EntityType>
+  <Association Name="FK_TblUsuarios_TblTiposUsuarios">
+    <End Role="TblTiposUsuarios" Type="DBCasaModel.Store.TblTiposUsuarios" Multiplicity="0..1" />
+    <End Role="TblUsuarios" Type="DBCasaModel.Store.TblUsuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblTiposUsuarios">
+        <PropertyRef Name="IdTipoUsuario" />
+      </Principal>
+      <Dependent Role="TblUsuarios">
+        <PropertyRef Name="IdTipoUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="AddUsuario" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="Username" Type="varchar" Mode="In" />
+    <Parameter Name="Password" Type="varchar" Mode="In" />
+    <Parameter Name="Nombre" Type="varchar" Mode="In" />
+    <Parameter Name="ApellidoPaterno" Type="varchar" Mode="In" />
+    <Parameter Name="ApellidoMaterno" Type="varchar" Mode="In" />
+    <Parameter Name="IdTipoUsuario" Type="int" Mode="In" />
+  </Function>
+</Schema>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBCasaModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="DBCasaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TblEstudiantes" EntityType="DBCasaModel.TblEstudiantes" />
+    <EntitySet Name="TblTiposUsuarios" EntityType="DBCasaModel.TblTiposUsuarios" />
+    <EntitySet Name="TblUsuarios" EntityType="DBCasaModel.TblUsuarios" />
+    <AssociationSet Name="FK_TblUsuarios_TblTiposUsuarios" Association="DBCasaModel.FK_TblUsuarios_TblTiposUsuarios">
+      <End Role="TblTiposUsuarios" EntitySet="TblTiposUsuarios" />
+      <End Role="TblUsuarios" EntitySet="TblUsuarios" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="TblEstudiantes">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ApPaterno" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="ApMaterno" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <Property Name="Matricula" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="TblTiposUsuarios">
+    <Key>
+      <PropertyRef Name="IdTipoUsuario" />
+    </Key>
+    <Property Name="IdTipoUsuario" Type="Int32" Nullable="false" />
+    <Property Name="TipoUsuario" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="TblUsuarios" Relationship="DBCasaModel.FK_TblUsuarios_TblTiposUsuarios" FromRole="TblTiposUsuarios" ToRole="TblUsuarios" />
+  </EntityType>
+  <EntityType Name="TblUsuarios">
+    <Key>
+      <PropertyRef Name="IdUsuario" />
+    </Key>
+    <Property Name="IdUsuario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Username" Type="String" Nullable="false" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="Password" Type="String" Nullable="false" MaxLength="120" Unicode="false" FixedLength="false" />
+    <Property Name="Nombre" Type="String" Nullable="false" MaxLength="40" Unicode="false" FixedLength="false" />
+    <Property Name="ApellidoPaterno" Type="String" Nullable="false" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="ApellidoMaterno" Type="String" MaxLength="30" Unicode="false" FixedLength="false" />
+    <Property Name="IdTipoUsuario" Type="Int32" />
+    <NavigationProperty Name="TblTiposUsuarios" Relationship="DBCasaModel.FK_TblUsuarios_TblTiposUsuarios" FromRole="TblUsuarios" ToRole="TblTiposUsuarios" />
+  </EntityType>
+  <Association Name="FK_TblUsuarios_TblTiposUsuarios">
+    <End Role="TblTiposUsuarios" Type="DBCasaModel.TblTiposUsuarios" Multiplicity="0..1" />
+    <End Role="TblUsuarios" Type="DBCasaModel.TblUsuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TblTiposUsuarios">
+        <PropertyRef Name="IdTipoUsuario" />
+      </Principal>
+      <Dependent Role="TblUsuarios">
+        <PropertyRef Name="IdTipoUsuario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
