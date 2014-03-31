@@ -18,7 +18,7 @@ namespace FrmPruebaEstudiantes
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
             FrameworkTSCI.Model.EstudiantesRepository r = new FrameworkTSCI.Model.EstudiantesRepository();
             r.Add(new FrameworkTSCI.Model.Estudiante
             {

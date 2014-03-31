@@ -11,6 +11,7 @@ namespace FrameworkTSCI.Model
         Conexion.MSSQLConexion conexion = new Conexion.MSSQLConexion();
         public void Add(Estudiante e)
         {
+
             //e.Nombre + "'" + e.ApellidoPaterno + "'"
             //Console.WriteLine("adasdasd");
             //1+2131+23+8
