@@ -30,10 +30,6 @@ class Ejecucion{
     public static void Main()
     {
 
-
-        Delegado.DelCalcular delC = (x, y) => x * y;
-        Console.WriteLine(delC(5, 3));
-
         Console.WriteLine("***************Delegate**************");
 
         Delegado.DelCalcular handler = Delegado.Calcular;
