@@ -12,3 +12,11 @@ C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\FSI\respo
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\bin\Debug\FrmPruebaEstudiantes.exe.config
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\obj\x86\Debug\FrmPruebaEstudiantes.exe
 C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\obj\x86\Debug\FrmPruebaEstudiantes.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\bin\Debug\FrmPruebaEstudiantes.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\bin\Debug\FrmPruebaEstudiantes.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\bin\Debug\FrameworkTSCI.dll
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\bin\Debug\FrameworkTSCI.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\obj\x86\Debug\FrmPruebaEstudiantes.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\obj\x86\Debug\FrmPruebaEstudiantes.FrmEstudiante.resources
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\obj\x86\Debug\FrmPruebaEstudiantes.Properties.Resources.resources
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica9-FrmPruebaEstudiantes\FrmPruebaEstudiantes\obj\x86\Debug\FrmPruebaEstudiantes.csproj.GenerateResource.Cache

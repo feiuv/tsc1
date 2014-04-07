@@ -15,7 +15,7 @@ namespace FrameworkTSCI.Model
             //e.Nombre + "'" + e.ApellidoPaterno + "'"
             //Console.WriteLine("adasdasd");
             //1+2131+23+8
-            conexion.NonQuery("insert....");
+            conexion.NonQuery("insert into estudiantes values();");
         }
 
         public void Delete(Estudiante e)

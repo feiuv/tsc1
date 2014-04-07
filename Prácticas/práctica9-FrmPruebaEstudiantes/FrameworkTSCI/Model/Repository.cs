@@ -10,6 +10,6 @@ namespace FrameworkTSCI.Model
         void Add(E o);
         void Delete(E o);
         E GetById(int id);
-        List<E> GetAll();
+       // List<E> GetAll();
     }
 }
