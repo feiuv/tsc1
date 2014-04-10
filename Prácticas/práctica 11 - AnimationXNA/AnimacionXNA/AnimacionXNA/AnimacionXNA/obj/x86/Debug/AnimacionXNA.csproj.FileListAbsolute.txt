@@ -1,0 +1,15 @@
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\AnimacionXNA.exe
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\AnimacionXNA.pdb
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.csprojResolveAssemblyReference.cache
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.exe
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.pdb
+C:\Users\Jorge\Documents\Visual Studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\Ken.xnb
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\Ken.xnb
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\AnimacionXNA.exe
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\AnimacionXNA.pdb
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.exe
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.pdb
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\skullball.xnb

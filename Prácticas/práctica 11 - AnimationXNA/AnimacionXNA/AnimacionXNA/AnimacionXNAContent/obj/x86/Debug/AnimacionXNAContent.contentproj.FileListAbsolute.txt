@@ -1,0 +1,2 @@
+c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\obj\x86\Debug\AnimacionXNAContent.contentprojResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\obj\x86\Debug\AnimacionXNAContent.contentprojResolveAssemblyReference.cache
