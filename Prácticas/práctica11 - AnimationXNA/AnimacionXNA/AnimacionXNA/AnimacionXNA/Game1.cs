@@ -15,7 +15,11 @@ namespace AnimacionXNA
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
-
+     
+        //Sonidos
+        SoundEffect soundEffect;
+        SoundEffectInstance soundEffectInstance;
+     
         //Animación
         Animation playerAnimation;
         Vector2 spritePos;
@@ -50,10 +54,16 @@ namespace AnimacionXNA
             Texture2D playerTexture = Content.Load<Texture2D>("Ken");
             spritePos = new Vector2(100, 100);
             playerAnimation.Initialize(playerTexture, spritePos, 106, 110, 6, 80, Color.White, 1f, true);
-         
             textureBall = Content.Load<Texture2D>(@"skullball");
-         
+            
+            //Sonido
+            soundEffect = Content.Load<SoundEffect>(@"01-overworld");
+            soundEffectInstance = soundEffect.CreateInstance();
+            soundEffectInstance.IsLooped = true;
+            soundEffectInstance.Play();
+
         }
+
         protected override void UnloadContent()
         {
             // TODO: Unload any non ContentManager content here

@@ -13,3 +13,12 @@ C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj
 C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.exe
 C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.pdb
 C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\skullball.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\Ken.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\skullball.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\01-overworld.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\AnimacionXNA.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\AnimacionXNA.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\AnimacionXNA.pdb

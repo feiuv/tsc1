@@ -1,2 +1,3 @@
 c:\users\jorge\documents\visual studio 2010\Projects\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\obj\x86\Debug\AnimacionXNAContent.contentprojResolveAssemblyReference.cache
 C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\obj\x86\Debug\AnimacionXNAContent.contentprojResolveAssemblyReference.cache
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\obj\x86\Debug\AnimacionXNAContent.contentprojResolveAssemblyReference.cache

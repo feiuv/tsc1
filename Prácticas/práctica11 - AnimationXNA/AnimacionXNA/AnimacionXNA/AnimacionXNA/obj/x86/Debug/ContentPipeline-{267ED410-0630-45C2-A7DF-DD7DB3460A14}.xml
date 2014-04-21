@@ -7,7 +7,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\Ken.xnb</Output>
+      <Output>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\Ken.xnb</Output>
       <Time>2012-05-17T11:27:07.5796802-05:00</Time>
     </Item>
     <Item>
@@ -16,8 +16,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\skullball.xnb</Output>
+      <Output>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\skullball.xnb</Output>
       <Time>2014-04-07T10:32:09.5402827-05:00</Time>
+    </Item>
+    <Item>
+      <Source>01-overworld.wav</Source>
+      <Name>01-overworld</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\01-overworld.xnb</Output>
+      <Time>2014-04-21T09:47:56.8048777-05:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -26,10 +35,10 @@
       <TargetProfile>Reach</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\servkey\Desktop\AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica11 - AnimationXNA\AnimacionXNA\AnimacionXNA\AnimacionXNA\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
