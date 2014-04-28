@@ -1,0 +1,5 @@
+C:\LearningXNA4.0\Chapter 03\AnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab06_XNA_Animacion_Sprite\MarioAnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\MarioAnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache
+C:\Users\servkey\Desktop\Marzo2014\MarioAnimatedSprites\AnimatedSprites\AnimatedSpritesContent\obj\x86\Debug\AnimatedSpritesContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+Content\Images\threerings.xnb
+Content\Images\mario.xnb
+Content\Images\marioSprite.xnb
+Content\Images\marioSprite1.xnb
+Content\Images\skullball.xnb
+Content\Images\marioStatic.xnb
+Content\Sounds\01-overworld.xnb

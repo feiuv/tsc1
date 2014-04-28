@@ -1,0 +1,23 @@
+112f647be36f4584bcc7625f43ba3d54
+0
+xboxgsm
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\
+130307167900000000
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\GameThumbnail.png
+2010-07-24T09:01:25.8879711Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\AnimatedSprites.exe
+2013-12-05T11:36:40.3302368Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\mario.xnb
+2013-12-05T10:50:56.3205513Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite.xnb
+2013-12-05T10:50:56.8819260Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite1.xnb
+2013-12-05T10:50:56.8929334Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioStatic.xnb
+2013-12-05T10:50:57.3672509Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\skullball.xnb
+2013-12-05T10:50:57.3502387Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\threerings.xnb
+2013-12-05T10:50:55.7431659Z
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Sounds\01-overworld.xnb
+2013-12-05T10:51:04.6160892Z

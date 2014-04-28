@@ -1,0 +1,13 @@
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\threerings.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\mario.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite1.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\skullball.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioStatic.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Sounds\01-overworld.xnb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\AnimatedSprites.exe
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\AnimatedSprites.pdb
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\AnimatedSprites.exe
+C:\Users\servkey\Desktop\Labs\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\AnimatedSprites.pdb
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

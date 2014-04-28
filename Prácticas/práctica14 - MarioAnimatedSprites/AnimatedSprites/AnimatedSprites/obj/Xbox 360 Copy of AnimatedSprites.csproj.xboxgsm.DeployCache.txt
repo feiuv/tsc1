@@ -1,0 +1,23 @@
+112f647be36f4584bcc7625f43ba3d54
+0
+xboxgsm
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\
+130307191560000000
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\GameThumbnail.png
+2010-07-24T09:01:25.8879711Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\AnimatedSprites.exe
+2013-12-05T12:14:47.9162814Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\mario.xnb
+2013-12-05T12:12:39.2403874Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite.xnb
+2013-12-05T12:12:39.9138366Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite1.xnb
+2013-12-05T12:12:39.9238432Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioStatic.xnb
+2013-12-05T12:12:40.5442578Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\skullball.xnb
+2013-12-05T12:12:40.5392545Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\threerings.xnb
+2013-12-05T12:12:38.6469913Z
+D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Sounds\01-overworld.xnb
+2013-12-05T12:12:48.1703484Z

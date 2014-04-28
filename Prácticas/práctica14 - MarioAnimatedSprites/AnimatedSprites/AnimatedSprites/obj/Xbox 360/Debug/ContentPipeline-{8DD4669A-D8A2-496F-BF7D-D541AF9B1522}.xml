@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\threerings.png</Source>
+      <Name>Images\threerings</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\threerings.xnb</Output>
+      <Time>2010-07-24T04:01:24.9299163-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\mario.png</Source>
+      <Name>Images\mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\mario.xnb</Output>
+      <Time>2013-12-04T23:54:24.212779-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\marioSprite.png</Source>
+      <Name>Images\marioSprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite.xnb</Output>
+      <Time>2013-12-05T00:16:14.9622407-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\marioSprite1.png</Source>
+      <Name>Images\marioSprite1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioSprite1.xnb</Output>
+      <Time>2013-12-05T00:36:18.6175529-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\skullball.png</Source>
+      <Name>Images\skullball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\skullball.xnb</Output>
+      <Time>2013-12-05T03:36:58.0288721-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\marioStatic.png</Source>
+      <Name>Images\marioStatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Images\marioStatic.xnb</Output>
+      <Time>2013-12-05T03:44:45.8411463-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\01-overworld.wav</Source>
+      <Name>Sounds\01-overworld</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\Sounds\01-overworld.xnb</Output>
+      <Time>2013-12-05T03:32:37.7361207-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{8DD4669A-D8A2-496F-BF7D-D541AF9B1522}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSpritesContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Cursos\Videogames\Contenido\Repository\videogames\Labs\Lab05_XNA_Animacion\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T15:52:54-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-19T23:06:15.6612816-06:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

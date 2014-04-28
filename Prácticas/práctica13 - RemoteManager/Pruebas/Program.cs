@@ -12,7 +12,7 @@ namespace Pruebas
         [STAThread]
         static void Main(string[] args)
         {
-           
+           /*
             
             List<Process> process = ProcessManager.GetAllProcess();
             //List<Process> process = ProcessManager.GetAllProcessByHost("SERVKEY-XPS","servkey","****");
@@ -25,7 +25,7 @@ namespace Pruebas
                 Console.Write("ThreadCount: {0}, ", p.ThreadCount);
                 Console.Write("Handle: {0}, ", p.Handle);
                 Console.WriteLine("OSName: {0}", p.OSName);
-              }
+              }*/
 
             try
             {
