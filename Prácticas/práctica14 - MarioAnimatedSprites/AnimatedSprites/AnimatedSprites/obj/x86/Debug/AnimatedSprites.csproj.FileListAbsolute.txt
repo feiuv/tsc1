@@ -87,3 +87,22 @@ C:\Users\servkey\Desktop\Marzo2014\MarioAnimatedSprites\AnimatedSprites\Animated
 C:\Users\servkey\Desktop\Marzo2014\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\servkey\Desktop\Marzo2014\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
 C:\Users\servkey\Desktop\Marzo2014\MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\threerings.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\mario.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\skullball.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\marioStatic.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\marioSprite1.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\marioTest.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\marioDemo.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\marioStatic1.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\super_mario.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Images\up.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Sounds\01-overworld.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\Content\Sounds\smb_1-up.xnb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe.config
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\bin\x86\Debug\AnimatedSprites.pdb
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.csprojResolveAssemblyReference.cache
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.exe
+C:\Users\servkey\Google Drive\Documentos\FEI\Cursos\6_Febrero14_Mayo14\TSCI\repository\tsc1\Prácticas\práctica14 - MarioAnimatedSprites\AnimatedSprites\AnimatedSprites\obj\x86\Debug\AnimatedSprites.pdb
