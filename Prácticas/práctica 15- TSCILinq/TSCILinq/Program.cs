@@ -89,18 +89,28 @@ namespace TSCILinq
                                   {
                                       CategoriaNombre = cat.Nombre,
                                       Estudiantes = EstudiantesDeCategoria
-                                  };
-           
+                                };
 
-            String query = "select Nombre from Estudiantes e join Direccion d on e.IdDireccion = d.Id";
-            var queryJoin = from est in estudiantes
-                                    join dir in direcciones
-                                    on est.Id equals dir.IdEstudiante
-                                    //where est.Id > 10 && dir.DireccionEstudiante.StartsWith("Av. ")
-                                    select new {
-                                        Nombre = est.Nombre,
-                                        DireccionEstudiante = dir.DireccionEstudiante
-                                    };
+        foreach (var item in queryCategorias)
+        {
+            Console.WriteLine("\nNombre de Categoría: {0}", item.CategoriaNombre);
+            Console.WriteLine("Estudiantes: ");
+            foreach (var e in item.Estudiantes)
+            {
+                Console.Write("{0}, ", e.Nombre);                    
+            }
+        }
+        return;
+   
+        String query = "select Nombre from Estudiantes e join Direccion d on e.IdDireccion = d.Id";
+        var queryJoin = from est in estudiantes
+                                join dir in direcciones
+                                on est.Id equals dir.IdEstudiante
+                                //where est.Id > 10 && dir.DireccionEstudiante.StartsWith("Av. ")
+                                select new {
+                                    Nombre = est.Nombre,
+                                    DireccionEstudiante = dir.DireccionEstudiante
+                                };
 
             foreach (var item in queryJoin)
             {
